@@ -7,6 +7,10 @@
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quangnd/authentication-jwt"
+  },
   "dependencies": {
     "dotenv": "^4.0.0",
     "jsonwebtoken": "^7.0.0",
