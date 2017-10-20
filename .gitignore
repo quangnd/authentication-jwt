@@ -1,0 +1,10 @@
+# Dependency directory
+node_modules
+lib/db
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# API keys
+.env
